@@ -1,0 +1,16 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\ewfdds\ewfdds\bin\Debug\ewfdds.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\ewfdds\ewfdds\bin\Debug\ewfdds.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\ewfdds\ewfdds\bin\Debug\ewfdds.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\ewfdds\ewfdds\obj\Debug\ewfdds.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\ewfdds\ewfdds\obj\Debug\ewfdds.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\ewfdds\ewfdds\obj\Debug\ewfdds.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\ewfdds\ewfdds\obj\Debug\ewfdds.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\ewfdds\ewfdds\obj\Debug\ewfdds.pdb
+C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\bin\Debug\ewfdds.exe.config
+C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\bin\Debug\ewfdds.exe
+C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\bin\Debug\ewfdds.pdb
+C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.MainForm.resources
+C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.exe
+C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.pdb
