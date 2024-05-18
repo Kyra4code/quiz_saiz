@@ -33,8 +33,8 @@ namespace ewfdds
 			}
 			else
 			{
-				MessageBox.Show("Você errou kkkkkkk");
 				pictureBox1.Load(imageme);
+				MessageBox.Show("Você errou kkkkkkk");
 			}
 			panel1.Enabled = false;
 		}
@@ -49,8 +49,8 @@ namespace ewfdds
 			}
 			else
 			{
-				MessageBox.Show("Você errou!!!");
 				pictureBox1.Load(imageme);
+				MessageBox.Show("Você errou!!!");
 			}
 			panel1.Enabled = false;
 		}
@@ -65,8 +65,8 @@ namespace ewfdds
 			}
 			else
 			{
-				MessageBox.Show("Você errou!!!");
 				pictureBox1.Load(imageme);
+				MessageBox.Show("Você errou!!!");
 			}
 			panel1.Enabled = false;
 		}
@@ -81,8 +81,8 @@ namespace ewfdds
 			}
 			else
 			{
-				MessageBox.Show("Você errou!!!");
 				pictureBox1.Load(imageme);
+				MessageBox.Show("Você errou!!!");
 			}
 			panel1.Enabled = false;
 		}
@@ -101,12 +101,13 @@ namespace ewfdds
 			
 			button1.Enabled = false;
 			button2.Enabled = true;
+			buttomReiniciar.Enabled = true;
 		}
 		
 		void Button2Click(object sender, EventArgs e)
 		{
 			pictureBox1.Load("transferir.jpg");
-			labelPergunta.Text = "Como a Internet mudou o paradigma de computação pessoal e de negócios desde sua popularização nos anos 1990?";
+			labelPergunta.Text = "1.Como a Internet mudou o paradigma de computação pessoal e de negócios desde sua popularização nos anos 1990?";
 			labelA.Text = "A internet possibilitou acesso fácil a negócios, informaçoes rápidas, \r além de muitas coisas";
 			labelB.Text = "A internet não mudou nada";
 			labelC.Text = "A internet apenas possibilitou o acesso a conexões em distância e \r acesso a informações rápidas";
@@ -254,34 +255,40 @@ namespace ewfdds
 			panel1.Enabled = true;
 			
 			button10.Enabled = false;
+			buttonfinalizar.Enabled = true;
 		}
 		void ButtonfinalizarClick(object sender, EventArgs e)
 		{
 			if (pontos == 0)
 			{
 				MessageBox.Show("Estude mais. Você não domina nada do assunto");
+				Application.Restart();
 			}
 			else
 			{
-				if (pontos >= 1 & pontos <= 4)
+				if (pontos >= 1 && pontos <= 4)
 				{
 					MessageBox.Show("Seu conhecimento é de iniciante");
+					Application.Restart();
 				}
 				else
 				{
-					if(pontos >= 5 & pontos <= 7)
+					if(pontos >= 5 && pontos <= 7)
 					{
 						MessageBox.Show("Você tem um bom conhecimento");
+						Application.Restart();
 					}
 					else
 					{
-						if(pontos >= 8 & pontos <= 9)
+						if(pontos >= 8 && pontos <= 9)
 						{
 							MessageBox.Show("Seu conhecimento é excepcional");
+							Application.Restart();
 						}
 						else
 						{
 							MessageBox.Show("Você e um gênio");
+							Application.Restart();
 						}
 					}
 				}
@@ -289,4 +296,3 @@ namespace ewfdds
 		}
 	}
 }
-

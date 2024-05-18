@@ -93,18 +93,21 @@ namespace ewfdds
 			// 
 			this.labelPontos.AutoSize = true;
 			this.labelPontos.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.labelPontos.Location = new System.Drawing.Point(1004, 514);
+			this.labelPontos.Location = new System.Drawing.Point(669, 334);
+			this.labelPontos.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.labelPontos.Name = "labelPontos";
-			this.labelPontos.Size = new System.Drawing.Size(90, 25);
+			this.labelPontos.Size = new System.Drawing.Size(64, 17);
 			this.labelPontos.TabIndex = 29;
 			this.labelPontos.Text = "Pontos:0";
 			// 
 			// buttomReiniciar
 			// 
+			this.buttomReiniciar.Enabled = false;
 			this.buttomReiniciar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.buttomReiniciar.Location = new System.Drawing.Point(1129, 529);
+			this.buttomReiniciar.Location = new System.Drawing.Point(753, 344);
+			this.buttomReiniciar.Margin = new System.Windows.Forms.Padding(2);
 			this.buttomReiniciar.Name = "buttomReiniciar";
-			this.buttomReiniciar.Size = new System.Drawing.Size(141, 45);
+			this.buttomReiniciar.Size = new System.Drawing.Size(94, 29);
 			this.buttomReiniciar.TabIndex = 27;
 			this.buttomReiniciar.Text = "Reiniciar";
 			this.buttomReiniciar.UseVisualStyleBackColor = true;
@@ -114,9 +117,10 @@ namespace ewfdds
 			// 
 			this.button10.Enabled = false;
 			this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button10.Location = new System.Drawing.Point(867, 489);
+			this.button10.Location = new System.Drawing.Point(578, 318);
+			this.button10.Margin = new System.Windows.Forms.Padding(2);
 			this.button10.Name = "button10";
-			this.button10.Size = new System.Drawing.Size(83, 71);
+			this.button10.Size = new System.Drawing.Size(55, 46);
 			this.button10.TabIndex = 26;
 			this.button10.Text = "10";
 			this.button10.UseVisualStyleBackColor = true;
@@ -126,9 +130,10 @@ namespace ewfdds
 			// 
 			this.button9.Enabled = false;
 			this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button9.Location = new System.Drawing.Point(778, 489);
+			this.button9.Location = new System.Drawing.Point(519, 318);
+			this.button9.Margin = new System.Windows.Forms.Padding(2);
 			this.button9.Name = "button9";
-			this.button9.Size = new System.Drawing.Size(83, 71);
+			this.button9.Size = new System.Drawing.Size(55, 46);
 			this.button9.TabIndex = 25;
 			this.button9.Text = "9";
 			this.button9.UseVisualStyleBackColor = true;
@@ -138,9 +143,10 @@ namespace ewfdds
 			// 
 			this.button8.Enabled = false;
 			this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button8.Location = new System.Drawing.Point(689, 489);
+			this.button8.Location = new System.Drawing.Point(459, 318);
+			this.button8.Margin = new System.Windows.Forms.Padding(2);
 			this.button8.Name = "button8";
-			this.button8.Size = new System.Drawing.Size(83, 71);
+			this.button8.Size = new System.Drawing.Size(55, 46);
 			this.button8.TabIndex = 24;
 			this.button8.Text = "8";
 			this.button8.UseVisualStyleBackColor = true;
@@ -150,9 +156,10 @@ namespace ewfdds
 			// 
 			this.button7.Enabled = false;
 			this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button7.Location = new System.Drawing.Point(600, 489);
+			this.button7.Location = new System.Drawing.Point(400, 318);
+			this.button7.Margin = new System.Windows.Forms.Padding(2);
 			this.button7.Name = "button7";
-			this.button7.Size = new System.Drawing.Size(83, 71);
+			this.button7.Size = new System.Drawing.Size(55, 46);
 			this.button7.TabIndex = 23;
 			this.button7.Text = "7";
 			this.button7.UseVisualStyleBackColor = true;
@@ -162,9 +169,10 @@ namespace ewfdds
 			// 
 			this.button6.Enabled = false;
 			this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button6.Location = new System.Drawing.Point(511, 489);
+			this.button6.Location = new System.Drawing.Point(341, 318);
+			this.button6.Margin = new System.Windows.Forms.Padding(2);
 			this.button6.Name = "button6";
-			this.button6.Size = new System.Drawing.Size(83, 71);
+			this.button6.Size = new System.Drawing.Size(55, 46);
 			this.button6.TabIndex = 22;
 			this.button6.Text = "6";
 			this.button6.UseVisualStyleBackColor = true;
@@ -174,9 +182,10 @@ namespace ewfdds
 			// 
 			this.button5.Enabled = false;
 			this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button5.Location = new System.Drawing.Point(414, 489);
+			this.button5.Location = new System.Drawing.Point(276, 318);
+			this.button5.Margin = new System.Windows.Forms.Padding(2);
 			this.button5.Name = "button5";
-			this.button5.Size = new System.Drawing.Size(91, 71);
+			this.button5.Size = new System.Drawing.Size(61, 46);
 			this.button5.TabIndex = 21;
 			this.button5.Text = "5";
 			this.button5.UseVisualStyleBackColor = true;
@@ -186,9 +195,10 @@ namespace ewfdds
 			// 
 			this.button4.Enabled = false;
 			this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button4.Location = new System.Drawing.Point(325, 489);
+			this.button4.Location = new System.Drawing.Point(217, 318);
+			this.button4.Margin = new System.Windows.Forms.Padding(2);
 			this.button4.Name = "button4";
-			this.button4.Size = new System.Drawing.Size(83, 71);
+			this.button4.Size = new System.Drawing.Size(55, 46);
 			this.button4.TabIndex = 20;
 			this.button4.Text = "4";
 			this.button4.UseVisualStyleBackColor = true;
@@ -198,9 +208,10 @@ namespace ewfdds
 			// 
 			this.button3.Enabled = false;
 			this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button3.Location = new System.Drawing.Point(236, 489);
+			this.button3.Location = new System.Drawing.Point(157, 318);
+			this.button3.Margin = new System.Windows.Forms.Padding(2);
 			this.button3.Name = "button3";
-			this.button3.Size = new System.Drawing.Size(83, 71);
+			this.button3.Size = new System.Drawing.Size(55, 46);
 			this.button3.TabIndex = 19;
 			this.button3.Text = "3";
 			this.button3.UseVisualStyleBackColor = true;
@@ -210,9 +221,10 @@ namespace ewfdds
 			// 
 			this.button2.Enabled = false;
 			this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button2.Location = new System.Drawing.Point(147, 489);
+			this.button2.Location = new System.Drawing.Point(98, 318);
+			this.button2.Margin = new System.Windows.Forms.Padding(2);
 			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(83, 71);
+			this.button2.Size = new System.Drawing.Size(55, 46);
 			this.button2.TabIndex = 18;
 			this.button2.Text = "2";
 			this.button2.UseVisualStyleBackColor = true;
@@ -221,9 +233,10 @@ namespace ewfdds
 			// button1
 			// 
 			this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.button1.Location = new System.Drawing.Point(58, 489);
+			this.button1.Location = new System.Drawing.Point(39, 318);
+			this.button1.Margin = new System.Windows.Forms.Padding(2);
 			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(83, 71);
+			this.button1.Size = new System.Drawing.Size(55, 46);
 			this.button1.TabIndex = 17;
 			this.button1.Text = "1";
 			this.button1.UseVisualStyleBackColor = true;
@@ -243,27 +256,30 @@ namespace ewfdds
 			this.panel1.Controls.Add(this.labelA);
 			this.panel1.Controls.Add(this.buttonA);
 			this.panel1.Enabled = false;
-			this.panel1.Location = new System.Drawing.Point(54, 14);
+			this.panel1.Location = new System.Drawing.Point(36, 9);
+			this.panel1.Margin = new System.Windows.Forms.Padding(2);
 			this.panel1.Name = "panel1";
-			this.panel1.Size = new System.Drawing.Size(1216, 426);
+			this.panel1.Size = new System.Drawing.Size(811, 278);
 			this.panel1.TabIndex = 28;
 			// 
 			// labelPergunta
 			// 
 			this.labelPergunta.AutoSize = true;
 			this.labelPergunta.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.labelPergunta.Location = new System.Drawing.Point(41, 20);
+			this.labelPergunta.Location = new System.Drawing.Point(27, 13);
+			this.labelPergunta.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.labelPergunta.Name = "labelPergunta";
-			this.labelPergunta.Size = new System.Drawing.Size(28, 25);
+			this.labelPergunta.Size = new System.Drawing.Size(20, 17);
 			this.labelPergunta.TabIndex = 17;
 			this.labelPergunta.Text = "1.";
 			// 
 			// pictureBox1
 			// 
 			this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-			this.pictureBox1.Location = new System.Drawing.Point(812, 71);
+			this.pictureBox1.Location = new System.Drawing.Point(541, 46);
+			this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
 			this.pictureBox1.Name = "pictureBox1";
-			this.pictureBox1.Size = new System.Drawing.Size(342, 320);
+			this.pictureBox1.Size = new System.Drawing.Size(228, 208);
 			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
 			this.pictureBox1.TabIndex = 5;
 			this.pictureBox1.TabStop = false;
@@ -271,9 +287,10 @@ namespace ewfdds
 			// buttonB
 			// 
 			this.buttonB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.buttonB.Location = new System.Drawing.Point(12, 166);
+			this.buttonB.Location = new System.Drawing.Point(8, 108);
+			this.buttonB.Margin = new System.Windows.Forms.Padding(2);
 			this.buttonB.Name = "buttonB";
-			this.buttonB.Size = new System.Drawing.Size(83, 71);
+			this.buttonB.Size = new System.Drawing.Size(55, 46);
 			this.buttonB.TabIndex = 11;
 			this.buttonB.Text = "B";
 			this.buttonB.UseVisualStyleBackColor = true;
@@ -282,9 +299,10 @@ namespace ewfdds
 			// buttonC
 			// 
 			this.buttonC.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.buttonC.Location = new System.Drawing.Point(12, 243);
+			this.buttonC.Location = new System.Drawing.Point(8, 158);
+			this.buttonC.Margin = new System.Windows.Forms.Padding(2);
 			this.buttonC.Name = "buttonC";
-			this.buttonC.Size = new System.Drawing.Size(83, 71);
+			this.buttonC.Size = new System.Drawing.Size(55, 46);
 			this.buttonC.TabIndex = 12;
 			this.buttonC.Text = "C";
 			this.buttonC.UseVisualStyleBackColor = true;
@@ -293,9 +311,10 @@ namespace ewfdds
 			// buttonD
 			// 
 			this.buttonD.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.buttonD.Location = new System.Drawing.Point(12, 320);
+			this.buttonD.Location = new System.Drawing.Point(8, 208);
+			this.buttonD.Margin = new System.Windows.Forms.Padding(2);
 			this.buttonD.Name = "buttonD";
-			this.buttonD.Size = new System.Drawing.Size(83, 71);
+			this.buttonD.Size = new System.Drawing.Size(55, 46);
 			this.buttonD.TabIndex = 13;
 			this.buttonD.Text = "D";
 			this.buttonD.UseVisualStyleBackColor = true;
@@ -305,9 +324,10 @@ namespace ewfdds
 			// 
 			this.labelD.AutoSize = true;
 			this.labelD.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.labelD.Location = new System.Drawing.Point(114, 345);
+			this.labelD.Location = new System.Drawing.Point(76, 224);
+			this.labelD.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.labelD.Name = "labelD";
-			this.labelD.Size = new System.Drawing.Size(23, 25);
+			this.labelD.Size = new System.Drawing.Size(16, 17);
 			this.labelD.TabIndex = 4;
 			this.labelD.Text = "?";
 			// 
@@ -315,9 +335,10 @@ namespace ewfdds
 			// 
 			this.labelC.AutoSize = true;
 			this.labelC.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.labelC.Location = new System.Drawing.Point(114, 268);
+			this.labelC.Location = new System.Drawing.Point(76, 174);
+			this.labelC.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.labelC.Name = "labelC";
-			this.labelC.Size = new System.Drawing.Size(23, 25);
+			this.labelC.Size = new System.Drawing.Size(16, 17);
 			this.labelC.TabIndex = 3;
 			this.labelC.Text = "?";
 			// 
@@ -325,9 +346,10 @@ namespace ewfdds
 			// 
 			this.labelB.AutoSize = true;
 			this.labelB.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.labelB.Location = new System.Drawing.Point(114, 191);
+			this.labelB.Location = new System.Drawing.Point(76, 124);
+			this.labelB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.labelB.Name = "labelB";
-			this.labelB.Size = new System.Drawing.Size(23, 25);
+			this.labelB.Size = new System.Drawing.Size(16, 17);
 			this.labelB.TabIndex = 2;
 			this.labelB.Text = "?";
 			// 
@@ -335,18 +357,20 @@ namespace ewfdds
 			// 
 			this.labelA.AutoSize = true;
 			this.labelA.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.labelA.Location = new System.Drawing.Point(114, 104);
+			this.labelA.Location = new System.Drawing.Point(76, 68);
+			this.labelA.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.labelA.Name = "labelA";
-			this.labelA.Size = new System.Drawing.Size(23, 25);
+			this.labelA.Size = new System.Drawing.Size(16, 17);
 			this.labelA.TabIndex = 0;
 			this.labelA.Text = "?";
 			// 
 			// buttonA
 			// 
 			this.buttonA.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.buttonA.Location = new System.Drawing.Point(12, 89);
+			this.buttonA.Location = new System.Drawing.Point(8, 58);
+			this.buttonA.Margin = new System.Windows.Forms.Padding(2);
 			this.buttonA.Name = "buttonA";
-			this.buttonA.Size = new System.Drawing.Size(83, 71);
+			this.buttonA.Size = new System.Drawing.Size(55, 46);
 			this.buttonA.TabIndex = 10;
 			this.buttonA.Text = "A";
 			this.buttonA.UseVisualStyleBackColor = true;
@@ -354,10 +378,12 @@ namespace ewfdds
 			// 
 			// buttonfinalizar
 			// 
+			this.buttonfinalizar.Enabled = false;
 			this.buttonfinalizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.buttonfinalizar.Location = new System.Drawing.Point(1129, 469);
+			this.buttonfinalizar.Location = new System.Drawing.Point(753, 305);
+			this.buttonfinalizar.Margin = new System.Windows.Forms.Padding(2);
 			this.buttonfinalizar.Name = "buttonfinalizar";
-			this.buttonfinalizar.Size = new System.Drawing.Size(141, 45);
+			this.buttonfinalizar.Size = new System.Drawing.Size(94, 29);
 			this.buttonfinalizar.TabIndex = 30;
 			this.buttonfinalizar.Text = "Finalizar";
 			this.buttonfinalizar.UseVisualStyleBackColor = true;
@@ -365,9 +391,9 @@ namespace ewfdds
 			// 
 			// MainForm
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(1472, 586);
+			this.ClientSize = new System.Drawing.Size(927, 381);
 			this.Controls.Add(this.buttonfinalizar);
 			this.Controls.Add(this.labelPontos);
 			this.Controls.Add(this.buttomReiniciar);
@@ -382,8 +408,9 @@ namespace ewfdds
 			this.Controls.Add(this.button2);
 			this.Controls.Add(this.button1);
 			this.Controls.Add(this.panel1);
+			this.Margin = new System.Windows.Forms.Padding(2);
 			this.Name = "MainForm";
-			this.Text = "ewfdds";
+			this.Text = "Quiz da História dos computadores";
 			this.Load += new System.EventHandler(this.MainFormLoad);
 			this.panel1.ResumeLayout(false);
 			this.panel1.PerformLayout();

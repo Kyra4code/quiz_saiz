@@ -14,3 +14,11 @@ C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.MainForm.resour
 C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.csproj.GenerateResource.Cache
 C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.exe
 C:\Users\aluno\Downloads\commitar\ewfdds\ewfdds\obj\Debug\ewfdds.pdb
+C:\Users\Aluno\Documents\aa\quiz_saiz\ewfdds\bin\Debug\ewfdds.exe.config
+C:\Users\Aluno\Documents\aa\quiz_saiz\ewfdds\bin\Debug\ewfdds.exe
+C:\Users\Aluno\Documents\aa\quiz_saiz\ewfdds\bin\Debug\ewfdds.pdb
+C:\Users\Aluno\Documents\aa\quiz_saiz\ewfdds\obj\Debug\ewfdds.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\aa\quiz_saiz\ewfdds\obj\Debug\ewfdds.MainForm.resources
+C:\Users\Aluno\Documents\aa\quiz_saiz\ewfdds\obj\Debug\ewfdds.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\aa\quiz_saiz\ewfdds\obj\Debug\ewfdds.exe
+C:\Users\Aluno\Documents\aa\quiz_saiz\ewfdds\obj\Debug\ewfdds.pdb
